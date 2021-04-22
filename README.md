@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-### Technologies and Tools
-
-[![Text Editor](https://img.sheilds.io/badge/Editor-vs%20Code-green?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
-
 ### Github Stats
 
 <a href="https://github.com/Chris-small1234/Chris-small1234">
