@@ -10,8 +10,7 @@
 <a href="https://github.com/Chris-small1234/Chris-small1234">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-small1234&hide=html&title_color=ffffff&text_colorc9acc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Chris-small1234/Chris-small1234">
-</a>
+
 <!--
 **Chris-small1234/Chris-small1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
